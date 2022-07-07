@@ -10,3 +10,4 @@
 ![](https://img.shields.io/badge/Code-ExpressJS-informational?style=flat&logo=express&logoColor=white&color=ffffff)
 ![](https://img.shields.io/badge/Code-ReactJS-informational?style=flat&logo=react&logoColor=white&color=ffffff)
 ![](https://img.shields.io/badge/Code-ReactNative-informational?style=flat&logo=react&logoColor=white&color=ffffff)
+![](https://img.shields.io/badge/Code-Fastify-informational?style=flat&logo=fastify&logoColor=white&color=ffffff)
