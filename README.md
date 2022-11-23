@@ -1,7 +1,7 @@
 ## Olá, tudo bem? 👋
 
 ### Sou um desenvolvedor backend viciado em mangás!
-- 🌱 Atualmente estou estudando Rust
+- 🌱 Atualmente estou estudando Rust e C++
 - 😄 Pronomes: Ele/Dele
 - 📫 Como entrar em contato comigo? Você pode me mandar uma mensagem no meu [Twitter](https://twitter.com/Hackntosh_) ou me enviar um email `srcookie@tuta.io`
 - 💬 Sei falar: Português/English
