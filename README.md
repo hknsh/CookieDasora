@@ -12,4 +12,3 @@
 ![](https://img.shields.io/badge/Code-ExpressJS-informational?style=flat&logo=express&logoColor=white&color=4dc61e)
 ![](https://img.shields.io/badge/Code-ReactJS-informational?style=flat&logo=react&logoColor=white&color=4dc61e)
 ![](https://img.shields.io/badge/Code-ReactNative-informational?style=flat&logo=react&logoColor=white&color=4dc61e)
-![](https://img.shields.io/badge/Code-Fastify-informational?style=flat&logo=fastify&logoColor=white&color=4dc61e)
