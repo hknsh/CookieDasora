@@ -5,6 +5,7 @@
 - 😄 Pronouns: he/him
 - 📫 Would you like to exchange some ideas? Hit me up on [Twitter](https://twitter.com/Hackntosh_) or send me an email `srcookie@tuta.io`
 - 💬 I speak: Português/English
+
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=4dc61e)
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=4dc61e) 
 ![](https://img.shields.io/badge/Code-NodeJS-informational?style=flat&logo=Node.js&logoColor=white&color=4dc61e)
