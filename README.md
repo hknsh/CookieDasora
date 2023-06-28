@@ -1,11 +1,11 @@
-## Olá, tudo bem? 👋
+## Hi, how's it going? 👋
 
-### Sou um desenvolvedor backend viciado em mangás!
-- 🌱 Atualmente estou estudando Rust e C++
-- 😄 Pronomes: Ele/Dele
-- 📫 Como entrar em contato comigo? Você pode me mandar uma mensagem no meu [Twitter](https://twitter.com/Hackntosh_) ou me enviar um email `srcookie@tuta.io`
-- 💬 Sei falar: Português/English
-- 🤹 Habilidades: ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=4dc61e)
+### I'm a backend developer who loves learning new things!
+- 🌱 Currently I'm studying Rust & C++
+- 😄 Pronouns: he/him
+- 📫 Would you like to exchange some ideas? Hit me up on [Twitter](https://twitter.com/Hackntosh_) or send me an email `srcookie@tuta.io`
+- 💬 I speak: Português/English
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=4dc61e)
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=4dc61e) 
 ![](https://img.shields.io/badge/Code-NodeJS-informational?style=flat&logo=Node.js&logoColor=white&color=4dc61e)
 ![](https://img.shields.io/badge/Code-Rust-informational?style=flat&logo=rust&logoColor=white&color=4dc61e)
